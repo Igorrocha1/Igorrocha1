@@ -27,3 +27,28 @@
 <img align="left"  width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igorrocha1&layout=compact&theme=vision-friendly-dark" />
  <img align="right" width="400px" src="https://github-readme-stats.vercel.app/api?username=Igorrocha1&show_icons=true,css&layout=compact&theme=vision-friendly-dark" />
 <!--
+
+name: generate animation
+
+on:
+  schedule:
+      # every 6 hours
+    - cron: "0 */6 * * *"
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: Platane/snk@master
+        id: snake-gif
+        with:
+          github_user_name: platane
+          svg_out_path: dist/github-contribution-grid-snake.svg
+
+      - uses: crazy-max/ghaction-github-pages@v2.1.3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN_GH_PAGES }}
