@@ -5,7 +5,7 @@
 #### Meus contatos:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/igorrocha1/)](https://www.linkedin.com/in/igorrocha1/)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511964261598&text=Olá!)](https://api.whatsapp.com/send?phone=5511964261598&text=Olá!)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rocha-igor@hotmail.com)](mailto:rocha-igor@hotmail.com)
+[![Hotmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rocha-igor@hotmail.com)](mailto:rocha-igor@hotmail.com)
 
 #### Conhecimento nas linguagens:
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
