@@ -28,3 +28,5 @@
  <img align="right" width="400px" src="https://github-readme-stats.vercel.app/api?username=Igorrocha1&show_icons=true,css&layout=compact&theme=vision-friendly-dark" />
 <!--
 
+- name: generate-snake-game-from-github-contribution-grid
+  uses: Platane/snk@v0.0.18
