@@ -26,7 +26,4 @@
 
 <img align="left"  width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igorrocha1&layout=compact&theme=vision-friendly-dark" />
  <img align="right" width="400px" src="https://github-readme-stats.vercel.app/api?username=Igorrocha1&show_icons=true,css&layout=compact&theme=vision-friendly-dark" />
-<!--
-
-- name: generate-snake-game-from-github-contribution-grid
-  uses: Platane/snk@v0.0.18
+  ![Snake animation](https://github.com/Igorrocha1/Igorrocha1/blob/output/github-contribution-grid-snake.svg)
