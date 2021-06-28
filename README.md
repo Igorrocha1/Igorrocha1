@@ -41,10 +41,13 @@ Desenvolvedor Java Full Stack Junior formado pela Generation Brasil!
 
 
  
-<div>
+<div align="center">
+ <h4>
+   Entre em contato pelas redes:
+  </h4>
 <a href="https://www.linkedin.com/in/igorrocha1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
-<div> 
+  </div>
  
   ![Snake animation](https://github.com/Igorrocha1/Igorrocha1/blob/output/github-contribution-grid-snake.svg)
  
