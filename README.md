@@ -1,15 +1,29 @@
-### :man_technologist: Olá, eu sou o Igor Rocha 👋 
- 
-*Desenvolvedor Java Full Stack Junior formado pela Generation Brasil!*
-
- ##
- <div>
- <a href="https://github.com/Igorrocha1">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Igorrocha1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igorrocha1&layout=compact&langs_count=16&theme=dracula"/>
+<div align="center">
+ <h1> :man_technologist: Olá, eu sou o Igor Rocha 👋 
+ </h1>
+<h3>
+Desenvolvedor Java Full Stack Junior formado pela Generation Brasil!
+</h3>
 </div>
  
-<div style="display: inline_block"><br>
+ <table align="left">
+ <a href="https://github.com/Igorrocha1">
+  <row>
+    <td>
+     <!-- Card -->
+      <img height="172em" src="https://github-readme-stats.vercel.app/api?username=Igorrocha1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    </td>
+    <td>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igorrocha1&layout=compact&langs_count=16&theme=dracula"/>
+    </td>
+  </row>
+</table> 
+ <div>
+  
+  
+  <br>
+  
+<p align="center">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -20,7 +34,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-plain.svg">
-</div>
+</p>
  
  
 ##
