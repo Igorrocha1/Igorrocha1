@@ -1,7 +1,6 @@
 <div align="center">
- <h1> :man_technologist: Olá, eu sou o Igor Rocha 👋 
- </h1>
-<h3>
+ <h1> :man_technologist: Olá, eu sou o Igor Rocha 👋</h1>
+  <h3>
 Desenvolvedor Java Full Stack Junior formado pela Generation Brasil!
 </h3>
 </div>
@@ -35,18 +34,15 @@ Desenvolvedor Java Full Stack Junior formado pela Generation Brasil!
   <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">  
   <img align="center" alt="Heroku" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-plain.svg">
 </p>
- 
 
 ##
 
-
- 
 <div align="center">
  <h4>
    Entre em contato pelas redes:
   </h4>
-<a href="https://www.linkedin.com/in/igorrocha1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/igorrocha1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
   </div>
- 
- </div>
+    ![snake gif](https://github.com/Igorrocha1/Igorrocha1/blob/output/github-contribution-grid-snake.svg)
+  </div>
