@@ -7,18 +7,18 @@ Desenvolvedor Java Full Stack Junior formado pela Generation Brasil!
 </div>
 
 <!-- Card com linguagens mais usadas--> 
-<table align="center">
+<!--<table align="center">
   <a href="https://github.com/Igorrocha1">
    <row>
      <td>
-       <img height="172em" src="https://github-readme-stats.vercel.app/api?username=Igorrocha1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+       <img height="172em" src="https://github-readme-stats.vercel.app/api?username=username=Igorrocha1(https://github.com/anuraghazra/github-readme-stats)/>
      </td>
      <td>
        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igorrocha1&layout=compact&langs_count=16&theme=dracula"/>
      </td>
    </row>
-</table> 
-  
+</table>
+  -->
   
  
 <div align="center">
